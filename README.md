@@ -1,7 +1,8 @@
-# **Pitcrew Agentic Resume Screening Assistant**  
+<img width="1536" height="1024" alt="ChatGPT Image Jan 19, 2026, 12_27_50 PM" src="https://github.com/user-attachments/assets/8c96e0a3-463d-42a5-891b-9ae6643fcd40" /># **Pitcrew Agentic Resume Screening Assistant**  
 
 ## **Overview**  
 This system automates the initial screening of job candidates by analyzing resumes against job descriptions. It uses an **agentic architecture**—three specialized agents working in sequence—to extract structured data, compare qualifications, and produce a transparent, explainable hiring decision. The solution is designed to run locally, requires no payment for external APIs, and handles real-world edge cases like ambiguous job posts or parsing errors.
+
 
 ---
 
